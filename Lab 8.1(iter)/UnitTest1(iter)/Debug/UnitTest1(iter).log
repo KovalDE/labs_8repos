@@ -1,5 +1,7 @@
-﻿  UnitTest1(iter).cpp
-W:\Labs AP\Lab 8.1\UnitTest1(iter)\UnitTest1(iter).cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
-W:\Labs AP\Lab 8.1\UnitTest1(iter)\UnitTest1(iter).cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
-W:\Labs AP\Lab 8.1\UnitTest1(iter)\UnitTest1(iter).cpp(5): message : использование предварительно скомпилированного заголовка
-  UnitTest1(iter).vcxproj -> W:\Labs AP\Lab 8.1\Debug\UnitTest1(iter).dll
+﻿  pch.cpp
+  UnitTest1(iter).cpp
+W:\Labs AP\Lab 8.1(iter)\UnitTest1(iter)\UnitTest1(iter).cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+W:\Labs AP\Lab 8.1(iter)\UnitTest1(iter)\UnitTest1(iter).cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+W:\Labs AP\Lab 8.1(iter)\UnitTest1(iter)\UnitTest1(iter).cpp(5): message : использование предварительно скомпилированного заголовка
+     Создается библиотека W:\Labs AP\Lab 8.1(iter)\Debug\UnitTest1(iter).lib и объект W:\Labs AP\Lab 8.1(iter)\Debug\UnitTest1(iter).exp
+  UnitTest1(iter).vcxproj -> W:\Labs AP\Lab 8.1(iter)\Debug\UnitTest1(iter).dll
