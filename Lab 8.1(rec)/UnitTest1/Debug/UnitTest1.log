@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+W:\Labs AP\Lab 8.1(rec)\UnitTest1\UnitTest1.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+W:\Labs AP\Lab 8.1(rec)\UnitTest1\UnitTest1.cpp(1): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+W:\Labs AP\Lab 8.1(rec)\UnitTest1\UnitTest1.cpp(5): message : использование предварительно скомпилированного заголовка
+  UnitTest1.vcxproj -> W:\Labs AP\Lab 8.1(rec)\Debug\UnitTest1.dll
